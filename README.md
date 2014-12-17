@@ -8,7 +8,7 @@ Making Coffee at Iced Dev
 ================
 In essence making coffee at Iced Dev is an art more than a function of the day.  Every day should begin with coffee.  Obviously the best way to start your day is to drive down the road to 105 W. Main St, and buy a nice hot steaming cup of joe from Sam at [Lo Fi Coffee](http://www.loficoffee.com "Lo Fi Coffee").
 
-If you can't, and your in a rush to do work, then it's time to make a Chemex!
+If you can't, and you're in a rush to do work, then it's time to make a Chemex!
 
 Brewing With Chemex
 ------
