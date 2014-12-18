@@ -1,16 +1,3 @@
-getting-started
-===============
-
-Getting Started at Iced Dev
-
-Todo
-====
-*how to order coffee like an asshole*
-*Pourover guide*
-*French Press Guide*
-*Drink definitions*
-*Making Toddy With A Dress Sock And A Pickle Jar*
-
 Making Coffee at Iced Dev
 ================
 In essence making coffee at Iced Dev is an art more than a function of the day.  Every day should begin with coffee.  Obviously the best way to start your day is to drive down the road to 105 W. Main St, and buy a nice hot steaming cup of joe from Sam at [Lo Fi Coffee](http://www.loficoffee.com "Lo Fi Coffee").
