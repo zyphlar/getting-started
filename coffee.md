@@ -1,12 +1,5 @@
 Making Coffee at Iced Dev
 ================
-Todo
-====
-*how to order coffee like an asshole*
-*Pourover guide*
-*French Press Guide*
-*Drink definitions*
-*Making Toddy With A Dress Sock And A Pickle Jar*
 
 In essence making coffee at Iced Dev is an art more than a function of the day.  Every day should begin with coffee.  Obviously the best way to start your day is to drive down the road to 105 W. Main St, and buy a nice hot steaming cup of joe from Sam at [Lo Fi Coffee](http://www.loficoffee.com "Lo Fi Coffee").
 
@@ -31,9 +24,17 @@ That's it!
 Drink Definitions
 ----
 * Espresso - An espresso is a small 24-34g(1-1.5 oz) drink pulled at 9 barometric pressures through finely ground coffee for 20-30 seconds.  It's really strong and badass.  If you're a badass....you drink this.  Use the espresso to supplement a cup of coffee in the mornings if you have a high level of immunity to caffeine
-* Macchiato - A macchiato is simply a 50/50 concoction of espresso and steamed milk.  When we say macchiato, this is a good post-11AM drink that youg get as a quick pick me up.  
+* Macchiato - A macchiato is simply a 50/50 concoction of espresso and steamed milk.  When we say macchiato, this is a good post-11AM drink that you get as a quick pick me up.  
 * Cortado - The cortado is in essence a mini latte.  Think about ratios here.  The cortado is 5oz's:  2 parts espresso, 2 parts steamed milk, 1 part foam.  This is a good one to have with with a small pastry.  Always get a cortado when you get a pastry and if you have a small appetite.
-* Cappuccino - The MOAD(mother of all drinks).  It's 6 oz and appropriate really any time of day.  This is an all day, 'errr' day drink.  It's the drink of evens.  2 parts esprsso, 2 parts steamed milk, 2 parts foam.  It's served in a dainty glass, and if you order it to go...you're a tool, and doing it wrong.
-* Latte - Another evens drink.  This drink is upgraded to 8oz's so your taste level of espresso is actually going to be minimal.  This is where we can actually start to substitute flavors, but give up steamed milk, and add calories.  Lattes are good if you're not feeling to acidic about a full cup of coffee.  Do this is your tummy is feeling rumbly.  It's also great with a biscotti.
+* Cappuccino - The MOAD(mother of all drinks).  It's 6 oz and appropriate really any time of day.  This is an all day, 'ery' day drink.  It's the drink of evens.  2 parts espresso, 2 parts steamed milk, 2 parts foam.  It's served in a dainty glass, and if you order it to go...you're a tool, and doing it wrong.
+* Latte - Another evens drink.  This drink is upgraded to 8oz's so your taste level of espresso is actually going to be minimal.  This is where we can actually start to substitute flavors, but give up steamed milk, and add calories.  Lattes are good if you're not feeling hot about all the acid a full cup of coffee.  Do this is your tummy is feeling rumbly.  It's also great with a biscotti.
 * Stupid Lattes - Stupid lattes have syrups, and that's disgusting.  Never order a drink with flavors, it's lame.  Enjoy the coffee, not the sugar.  Properly steamed milk should have natural sweetness, and the coffee should have its own unique flavor.
-* Shitty Iced Drinks - Iced drinks technically are just proportional to their latte counter parts.  The generic term really for anything iced is a "iced latte".  Personally i'm not a huge fan of them, but if that's cool, do your think.  I think it's okay to drink an iced latte with flavors.
+* Shitty Iced Drinks - Iced drinks technically are just proportional to their latte counter parts.  The generic term really for anything iced is a "iced latte".  Personally i'm not a huge fan of them, but if that's cool, do your thing.  I think it's okay to drink an iced latte with flavors.
+
+Todo
+====
+* *how to order coffee like an asshole*
+* *Pourover guide*
+* *French Press Guide*
+* *Drink definitions*
+* *Making Toddy With A Dress Sock And A Pickle Jar*
